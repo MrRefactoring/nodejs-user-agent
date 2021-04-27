@@ -1,3 +1,9 @@
+1.0.0 / 2021-04-27
+==================
+
+ * TypeScript support added
+ * Another updates
+ * Renamed to `nodejs-user-agent`
 
 1.0.0 / 2015-08-06
 ==================
