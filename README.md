@@ -34,4 +34,4 @@ console.log(ua('urllib', '0.1.1')); // 'urllib/0.1.1 Node.js/14.16.1 (macOS Big 
 
 ## License
 
-[MIT](LICENSE.txt)
+[MIT](LICENSE)
